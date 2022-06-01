@@ -13,4 +13,3 @@ In particular, this research concentrates on the utility of distinguishing Russi
 * Naive Bayes Classifier;
 * K-nearest neighbours;
 * Social media moderation.
-
